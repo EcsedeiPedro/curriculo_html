@@ -1,0 +1,138 @@
+html
+{
+    margin: 0%;
+    padding: 0%;
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: #fff;
+    width: 100%;
+}
+
+li, ul, ol
+{
+    list-style-type: none;
+}
+
+#titulo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+}
+
+header
+{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid 1px;
+    border-radius: 10px;
+    border-color: #fff;
+    background-image: url(https://www.cherishpr.com/wp-content/uploads/2013/06/6Rz7Zx7.png); background-attachment: fixed;
+    color: #fff;
+    padding: 1%;
+}
+
+#bv
+{
+    font-size: 40px;
+}
+
+#foto
+{
+    width: 250px;
+    border-radius: 50%;
+    border: solid 3px;
+    border-color: #fff
+}
+
+#contatos
+{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2%;
+    width: 10%;
+    position: absolute;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+section
+{
+    float: right;
+    margin-right: 15%;
+    text-align: right;
+}
+
+.sessoes
+{
+    border: solid 1px;
+    border: #fff;
+    border-radius: 2px;
+}
+
+article
+{
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    float: right;
+    display: flexbox;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    position: absolute;
+}
+
+.skills
+{
+    box-sizing: content-box;
+    padding-bottom: 5%;
+}
+
+/* Define a formatação de Títulos */
+
+.indicadores
+{
+    text-align: justify;
+    font-size: 30px;
+}
+    
+
+
+/* Estilo Rodapé */
+
+footer
+{
+    width: 100%;
+    margin-top: 50%;
+    text-align: center;
+    padding: 3%;
+    color: #fff;
+    background-image: url(https://www.cherishpr.com/wp-content/uploads/2013/06/6Rz7Zx7.png);
+    position: sticky;
+    border-radius: 10px;
+}
+
+
+
+
+
+    
+
+    
+    
+
+
+
+
